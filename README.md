@@ -3,7 +3,7 @@
 ## Installation and Dependencies
 
 
- 
+
  **Software Needed:**
 These are tools user needs before starting or running the python notebook:
 - Git
